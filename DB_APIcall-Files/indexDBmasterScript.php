@@ -1,7 +1,7 @@
 
 <?php
 //accesskey & endpoint variable declaration
-$accessKey = '4c62103d49654d4cb904f9c4fc7b60d8';
+$accessKey = '/*key has been removed*/';
 $endpoint = 'https://api.bing.microsoft.com/v7.0/images/search';
 
 //variable declaration for search keyterms
