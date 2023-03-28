@@ -6,7 +6,9 @@ During my final semester at Rowan University I worked in a team of four to utili
 
                   
 -Upon clicking one of the Images you will be brought to that locations page. Here is where you can view...
+
 ![NashvilleImg](https://user-images.githubusercontent.com/118318185/228110217-8f0c40a0-43d0-4a22-8aef-98a3d8faa6b5.png)
+
 -The Locations: Weather (Weather API) & Flights (AviationStack API)
 
 <img width="1160" alt="OrlandoPageImg" src="https://user-images.githubusercontent.com/118318185/228110670-e66d2c80-dab5-4b6b-92c2-5c97cc436fad.png">
